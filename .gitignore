@@ -1,0 +1,24 @@
+# Binaries
+/bin/
+/*.exe
+/*.exe~
+/*.dll
+/*.so
+/*.dylib
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Dependency directories
+/vendor/
+
+# IDE/editor configs
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
