@@ -8,11 +8,7 @@ A CLI tool written in Go to extract Indicators of Compromise (IOCs) such as IP a
 
 ## 📁 Project Structure
 
-goioc/
-├── cmd/ # CLI entry point
-├── internal/ # Core logic (IOC extraction)
-├── testdata/ # Sample files for testing
-
+``` goioc/ ├── cmd/ # CLI entry point ├── internal/ # Core logic (IOC extraction) ├── testdata/ # Sample files for testing ├── go.mod ├── go.sum └── README.md ```
 
 
 ## 🎯 Planned Features
